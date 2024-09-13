@@ -85,8 +85,9 @@ body {
     color: var(--slate-500);
 
     & a {
-      color: var(--slate-900);
+      color: #000;
       text-decoration: none;
+      font-weight: 700;
 
       &:hover {
         color: hsl(216, 100%, 60%);
